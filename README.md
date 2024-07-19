@@ -1,4 +1,4 @@
-# ArDoCo Core
+mvn# ArDoCo Core
 
 [![Maven Verify](https://github.com/ArDoCo/Core/actions/workflows/verify.yml/badge.svg)](https://github.com/ArDoCo/Core/actions/workflows/verify.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.ardoco.core/parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.ardoco.core/parent)
